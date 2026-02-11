@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.app\\Lab1.app.csproj": {}
+    "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.App\\Lab1.app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.app\\Lab1.app.csproj": {
+    "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.App\\Lab1.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.app\\Lab1.app.csproj",
+        "projectUniqueName": "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.App\\Lab1.app.csproj",
         "projectName": "Lab1.app",
-        "projectPath": "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.app\\Lab1.app.csproj",
+        "projectPath": "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.App\\Lab1.app.csproj",
         "packagesPath": "C:\\Users\\lukaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.app\\obj\\",
+        "outputPath": "C:\\Users\\lukaz\\lab-0-setup\\Lab1\\Lab1.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
