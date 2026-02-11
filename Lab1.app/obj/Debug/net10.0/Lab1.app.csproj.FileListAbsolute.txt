@@ -12,3 +12,4 @@ C:\Users\lukaz\lab-0-setup\Lab1\Lab1.app\obj\Debug\net10.0\refint\Lab1.app.dll
 C:\Users\lukaz\lab-0-setup\Lab1\Lab1.app\obj\Debug\net10.0\Lab1.app.pdb
 C:\Users\lukaz\lab-0-setup\Lab1\Lab1.app\obj\Debug\net10.0\Lab1.app.genruntimeconfig.cache
 C:\Users\lukaz\lab-0-setup\Lab1\Lab1.app\obj\Debug\net10.0\ref\Lab1.app.dll
+C:\Users\lukaz\lab-0-setup\Lab1\Lab1.app\obj\Debug\net10.0\Lab1.app.sourcelink.json
